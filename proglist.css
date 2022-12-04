@@ -1,0 +1,124 @@
+/* 검색 부분 */
+.searchbar{
+	margin-bottom: auto;
+	margin-top: auto;
+	height: 60px;
+	background-color: #353b48;
+	border-radius: 20px;
+	padding: 10px;
+}
+	
+.search_input{
+	color: white;
+	border: 0;
+	outline: 0;
+	background: none;
+	width: 0;
+	caret-color:transparent;
+	line-height: 40px;
+	transition: width 0.2s linear;
+}
+
+.searchbar:hover > .search_input{
+	padding: 0 10px;
+	width: 200px;
+	caret-color:white;
+	transition: width 0.2s linear;
+}
+
+.searchbar:hover > .search_icon{
+	background: white;
+}
+
+.search_icon{
+	height: 40px;
+	width: 40px;
+	float: right;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	text-decoration:none;
+}
+/* 글자 정렬 */
+.r-txt{
+	text-align: right;
+}
+.c-txt{
+	text-align: center;
+}
+.s-txt{
+	text-align: start;
+}
+/* manual 폰트사이즈 */
+.p1{
+	font-size: 18px;
+}
+/* index */
+.bd-placeholder-img{
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+}
+
+@media (min-width: 768px){
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}
+
+/* naverApi nav디자인, naverApi 테이블 세로 정렬 */
+.api-nav{
+	width:100%;
+	border-radius: 10px;
+}
+.td-middle{
+	vertical-align : middle;
+}
+
+/* program_list */
+.chk-div{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; 
+	border-radius: 20px; 
+	margin-bottom:5px;
+}
+.prog-table{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.th-1{
+	width:5%;
+	vertical-align : middle;
+}
+.th-2{
+	width:30%; 
+	vertical-align : middle;
+}
+.td-img{
+	width: 30px;
+	height: 30px;
+}
+
+/* specification */
+.spec-div{
+	text-align: center; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 60%;
+}
+/* loginmain */
+.loginLogo-div {
+	background-color: #ffffff; /*점보트론배경색*/
+}
+/* manual */
+img { 
+   	float: left;
+}
+p1 {
+	font-size: 18px
+}
