@@ -1,5 +1,10 @@
 ## 컴퓨터 사양 추천 사이트
 
+### 개발 환경
+* 개발 OS : macOS
+* 개발 툴 : Eclips, IntelliJ IDEA, MySQL
+* 개발 기술 : JAVA, JSP, SQL, CSS, JQuary, Bootstrap 
+
 ### 컴퓨터 하드웨어에 대해 잘 모르는 사람들에게 초점을 잡고 만들었습니다.
 
 #### 기능 사항
