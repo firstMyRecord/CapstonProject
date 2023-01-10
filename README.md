@@ -21,4 +21,6 @@
 
 * 커뮤니티 게시판
 
+#### 설계도
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/101164731/211601800-4d347083-7d6d-4b7c-b8b5-1a0ff9f2f864.png">
 
