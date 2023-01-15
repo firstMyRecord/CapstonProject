@@ -3,8 +3,10 @@
 
 #### 개발 환경
 * 개발 OS : macOS
-* 개발 툴 : Eclips, IntelliJ IDEA, MySQL
+* 개발 툴 : Eclips, IntelliJ IDEA
 * 개발 기술 : JAVA, JSP, SQL, CSS, JQuary, Bootstrap 
+* 서버 : Tomcat
+* 데이터베이스 : MySQL
 #### 설계도
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/101164731/211601800-4d347083-7d6d-4b7c-b8b5-1a0ff9f2f864.png">
 
